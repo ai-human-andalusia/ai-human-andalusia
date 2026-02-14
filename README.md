@@ -2,6 +2,9 @@
 
 Human-operated execution infrastructure for AI systems.
 
+![Status](https://img.shields.io/badge/status-human--operated-blue)
+![Spec](https://img.shields.io/badge/spec-v0.1-lightgrey)
+
 ---
 
 ## About
