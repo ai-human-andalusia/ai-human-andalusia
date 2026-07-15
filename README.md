@@ -16,6 +16,7 @@ I build infrastructure for verifiable and resumable AI workflows. My current pro
 
 - [`hrevn-workflow`](https://github.com/miguel-herrero-systems/hrevn-workflow) — local-first Python SDK for checkpoints, resume, artifact hashing, and workflow manifests
 - [`hrevn-mcp-server`](https://github.com/miguel-herrero-systems/hrevn-mcp-server) — thin MCP surface for the managed HREVN runtime
+- [`rwa-collateral-reconciliation`](https://github.com/miguel-herrero-systems/rwa-collateral-reconciliation) — experimental reference model for condition-evidence provenance, versioned valuation attestations, and reconciliation with on-chain collateral state
 
 ## Current research
 
