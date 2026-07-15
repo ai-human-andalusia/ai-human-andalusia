@@ -14,8 +14,8 @@ I build infrastructure for verifiable and resumable AI workflows. My current pro
 
 ## Selected public work
 
-- [`hrevn-workflow`](https://github.com/ai-human-andalusia/hrevn-workflow) — local-first Python SDK for checkpoints, resume, artifact hashing, and workflow manifests
-- [`hrevn-mcp-server`](https://github.com/ai-human-andalusia/hrevn-mcp-server) — thin MCP surface for the managed HREVN runtime
+- [`hrevn-workflow`](https://github.com/miguel-herrero-systems/hrevn-workflow) — local-first Python SDK for checkpoints, resume, artifact hashing, and workflow manifests
+- [`hrevn-mcp-server`](https://github.com/miguel-herrero-systems/hrevn-mcp-server) — thin MCP surface for the managed HREVN runtime
 
 ## Current research
 
